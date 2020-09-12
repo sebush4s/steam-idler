@@ -7,7 +7,7 @@ Wbijaj godziny w grach nawet nic nie robiąc!
 
 ![](screenshot.png)
 
-## INstalacja
+## Instalacja
 
 1. Pobierz repozytorium
 
