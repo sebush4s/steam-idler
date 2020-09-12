@@ -1,0 +1,11 @@
+{
+	"username":"",
+	"password": "",
+	"twofactorcode": "",
+	"gamestoplay": [730, 4000, 379720, 240, 50130, 307780, 218620, 72850, 55230, 261640, 8190, 22300, 434050, 766570, 10, 39510, 217980, 1030830, 203160, 43160],
+	"bypasslimit":false,
+	"donotsort": false,
+	"sendautomessage": true,
+	"automessage": "Czesc! Nie moge odpisac, bo jestem teraz AFK.",
+	"silent": false
+}
